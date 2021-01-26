@@ -1,3 +1,5 @@
 Hello! I am file 2.
 
 This line was added in commit 3.
+
+This change was made in master.
